@@ -1,0 +1,27 @@
+p {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: small;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.card-badge {
+    width: fit-content;
+    height: 1rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    font-size: x-small;
+    text-align: center;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    color: white;
+}
+.field {
+    column-gap: .5rem;
+    margin: 2px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

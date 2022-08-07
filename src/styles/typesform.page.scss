@@ -1,0 +1,16 @@
+.customForm > :where(:not(:first-child)) {
+    margin-top: .6rem;
+}
+
+.fields > :where(:not(:first-child)) {
+    margin-top: .4rem;
+}
+
+.custom-field {
+    column-gap: .5rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
